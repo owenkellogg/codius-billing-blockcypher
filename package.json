@@ -1,0 +1,22 @@
+{
+  "name": "blockcypher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/codius-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.12",
+    "body-parser": "^1.12.0",
+    "express": "^4.11.2",
+    "superagent": "^0.21.0",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-6to5": "^3.0.0"
+  }
+}
